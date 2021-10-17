@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\bin\Debug\TipCalculatorSample.exe.config
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\bin\Debug\TipCalculatorSample.exe
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\bin\Debug\TipCalculatorSample.pdb
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.Form1.resources
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.exe
+C:\Users\hp\source\repos\WindowsFormApp\TipCalculatorSample\TipCalculatorSample\obj\Debug\TipCalculatorSample.pdb
